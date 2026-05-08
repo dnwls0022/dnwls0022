@@ -15,7 +15,7 @@
 ---
 
 ## 🛠 Tech Stacks
-**제가 다루는 무기들입니다.** (훈장처럼 깔끔하게 정리했어요!)
+**제가 다루는 무기들입니다.** 
 
 ### Frontend
 <p>
@@ -36,7 +36,7 @@
 ---
 
 ## 📊 My Stats
-**저의 성실도를 보여주는 지표입니다.** (운동 기록지 같은 거예요!)
+**저의 성실도를 보여주는 지표입니다.** 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=내깃허브아이디&show_icons=true&theme=radical" />
