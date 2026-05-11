@@ -48,7 +48,23 @@
   - [cite_start]**Gemini AI 연동 모달창** 개발: 맞춤형 추천 키워드 생성 및 데이터 분석 인터페이스 제공 
 
 ---
+## 📊 GitHub Dashboard
 
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dnwls0022&show_icons=true&theme=radical" alt="dnwls0022's GitHub stats" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dnwls0022&layout=compact&theme=radical" alt="dnwls0022's Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="padding-top: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnwls0022&theme=radical" alt="dnwls0022's GitHub streak" />
+    </td>
+  </tr>
+</table>
 ## 🥇 Certifications
 <p align="left">
   <img src="https://img.shields.io/badge/정보처리기사-2026.06-blue?style=for-the-badge"/>
