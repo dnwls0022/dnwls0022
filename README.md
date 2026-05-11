@@ -38,14 +38,14 @@
 ### [cite_start]🎬 Connected_M: AI 통합 영화 탐색 및 분석 플랫폼
 **"데이터 무결성과 사용자 경험의 완결성을 구현한 맞춤형 AI 솔루션"**
 
-- [cite_start]**Architecture & Optimization:**
-  - [cite_start]**Atomic Design 패턴** 적용을 통한 컴포넌트 모듈화 및 재사용성 극대화 
-  - [cite_start]**React 기반 아키텍처 설계** 및 렌더링 최적화로 가독성 높은 인터페이스 구축 [cite: 12, 15]
-- [cite_start]**Data & Troubleshooting:** 
-  - [cite_start]백엔드 API 분석 기반의 **TSX 컴포넌트 설계**로 데이터 정합성 유지 및 런타임 오류 최소화 
-  - [cite_start]프론트-백엔드 연동 과정의 병목 현상 및 통신 오류를 해결하여 안정적인 서비스 환경 구축 
-- [cite_start]**AI Interactive UI:** 
-  - [cite_start]**Gemini AI 연동 모달창** 개발: 맞춤형 추천 키워드 생성 및 데이터 분석 인터페이스 제공 
+- **Architecture & Optimization:**
+  - **Atomic Design 패턴** 적용을 통한 컴포넌트 모듈화 및 재사용성 극대화 
+  - **React 기반 아키텍처 설계** 및 렌더링 최적화로 가독성 높은 인터페이스 구축 [cite: 12, 15]
+- *Data & Troubleshooting:** 
+  - 백엔드 API 분석 기반의 **TSX 컴포넌트 설계**로 데이터 정합성 유지 및 런타임 오류 최소화 
+  -프론트-백엔드 연동 과정의 병목 현상 및 통신 오류를 해결하여 안정적인 서비스 환경 구축 
+- **AI Interactive UI:** 
+  - **Gemini AI 연동 모달창** 개발: 맞춤형 추천 키워드 생성 및 데이터 분석 인터페이스 제공 
 
 ---
 ## 📊 GitHub Dashboard
