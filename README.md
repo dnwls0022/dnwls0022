@@ -44,12 +44,8 @@
   - 프론트-백엔드 연동 과정의 병목 현상 및 통신 오류를 해결하여 안정적인 서비스 환경 구축 
 - **AI Interactive UI:** - **Gemini AI 연동 모달창** 개발: 맞춤형 추천 키워드 생성 및 데이터 분석 인터페이스 제공 
 
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e6d2680-16f4-4f47-ab3e-c7775d4ab368" width="100%" alt="메인페이지 구동 화면2">
-</p>
-
-<p align="center">
+  <img src="https://github.com/user-attachments/assets/734417d9-c02f-4c22-8c0c-d95149e3e2b5" width="100%" alt="구동 화면 1"><br><br>
   <img src="https://github.com/user-attachments/assets/ceff9acf-1caf-41a0-859e-8862b78d8da5" width="100%" alt="메인페이지 구동 화면">
 </p>
 
