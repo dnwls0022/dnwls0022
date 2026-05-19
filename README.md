@@ -48,6 +48,11 @@
   - **Gemini AI 연동 모달창** 개발: 맞춤형 추천 키워드 생성 및 데이터 분석 인터페이스 제공 
 
 ---
+
+<p align="center">
+  <img src="<img width="1082" height="616" alt="gif" src="https://github.com/user-attachments/assets/ceff9acf-1caf-41a0-859e-8862b78d8da5" />
+" width="100%" alt="메인페이지 구동 화면">
+</p>
 ## 📊 GitHub Dashboard
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
